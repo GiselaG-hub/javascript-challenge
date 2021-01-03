@@ -32,3 +32,6 @@ Using multiple input tags and/or select dropdowns, write JavaScript code so the 
 5. shape
 
 ## Good luck!
+
+## Copyright
+Trilogy Education Services © 2019. All Rights Reserved.
