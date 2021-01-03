@@ -31,7 +31,7 @@ Using multiple input tags and/or select dropdowns, write JavaScript code so the 
 4. country
 5. shape
 
-![screenshot](images/Webpage.png)
+![screenshot](images/Webpage.PNG)
 
 ## Good luck!
 
