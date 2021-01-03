@@ -31,6 +31,8 @@ Using multiple input tags and/or select dropdowns, write JavaScript code so the 
 4. country
 5. shape
 
+Utilized, pulldown menue for this.
+
 ![screenshot](images/Webpage.PNG)
 
 ## Good luck!
