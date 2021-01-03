@@ -20,3 +20,5 @@ Make sure you have a column for date/time, city, state, country, shape, and comm
 Use a date form in your HTML document and write JavaScript code that will listen for events and search through the date/time column to find rows that match user input.
 
 ### Level 2: Multiple Search Categories (Optional)
+
+Complete all of Level 1 criteria.
