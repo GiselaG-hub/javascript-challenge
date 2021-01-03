@@ -21,7 +21,6 @@ Use a date form in your HTML document and write JavaScript code that will listen
 
 ### Level 2: Multiple Search Categories (Optional)
 
-![Screenshot]webpage.png
 
 Complete all of Level 1 criteria.
 
